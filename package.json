@@ -1,0 +1,28 @@
+{
+  "name": "math-bot",
+  "version": "0.1.0",
+  "description": "A discord bot capable of a variety of mathematical operations, implemented in Node.js with discord.js.",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nethe550/math-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "math",
+    "discord.js"
+  ],
+  "author": "nethe550",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/nethe550/math-bot/issues"
+  },
+  "homepage": "https://github.com/nethe550/math-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
